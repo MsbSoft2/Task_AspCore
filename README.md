@@ -11,5 +11,5 @@ The create project by Asp.net Core 5 Web API 🤓
 - Get All User if  Authenticated
 
 ## JWT 🔒
-- User JWA
+- User JWT 
 - User API 
