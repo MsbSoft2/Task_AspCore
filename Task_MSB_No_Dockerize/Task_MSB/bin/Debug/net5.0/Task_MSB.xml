@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Task_MSB</name>
+    </assembly>
+    <members>
+        <member name="M:Task_MSB.Controllers.UserController.GetAllUser">
+            <summary>
+            Get All User if user Authorize
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Task_MSB.Controllers.UserController.Register(Task_MSB.Models.User)">
+            <summary>
+            Register User by class User
+            </summary>
+            <param name="user">Class User</param>
+            <returns></returns>
+        </member>
+        <member name="M:Task_MSB.Controllers.UserController.Login(System.String,System.String)">
+            <summary>
+            Login User by Username and Password
+            </summary>
+            <param name="username">Username</param>
+            <param name="password">Password</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
